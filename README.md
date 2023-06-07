@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ammar Arnous 🤓</h1>
-<h3 align="center">A frontend Developer.</h3>
+<h3 align="center">Web Frontend Developer</h3>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Libre+Bodoni&pause=1000&color=1D6483E9&center=true&vCenter=true&width=435&lines=Web+Frontend+Developer+;Frontend+Developer" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammararnous&label=Profile%20views&color=0e75b6&style=flat" alt="ammararnous" /> </p>
 
