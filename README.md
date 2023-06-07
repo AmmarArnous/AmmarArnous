@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ammar.ar@gmx.de**
 
-- ⚡ Fun fact :- Food and Music and Sport 🎵 are the reasons to live.
+- ⚡ Fun fact :- Food Sport and Music 🎵 are the reasons to live.
 
 
 <h3 align="left">Connect with me:</h3>
