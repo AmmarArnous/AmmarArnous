@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Ammar Arnous 🤓 
 ></h1>
+<h2 align="center"> 👋 Web Frontend Developer<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"</h2>
 <p align="center">
- <h2 align="center"> 👋 Web Frontend Developer<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"</h2>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Libre+Bodoni&size=25&pause=1000&color=1D6483E9&center=true&vCenter=true&width=435&lines=Web+Frontend+Developer+;Frontend+Developer" alt="Typing SVG" /></a>
 </p>
 
